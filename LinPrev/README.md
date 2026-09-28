@@ -1,7 +1,6 @@
 # linpriv
 
-A question-driven Linux privilege escalation enumeration script — an
-alternative to LinPEAS/LinEnum that reads like a guided walkthrough instead
+A question-driven Linux privilege escalation enumeration script that reads like a guided walkthrough instead
 of a wall of raw command output.
 
 For every check, the script prints the **question** a pentester is trying
