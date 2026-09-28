@@ -1,4 +1,4 @@
-###Finding: World-Writable Cron Job (Privilege Escalation)
+### Finding: World-Writable Cron Job (Privilege Escalation)
 
 **Discovery:**
 LinEnum flagged /etc/cron_privesc_test.sh as world-writable (-rwxrwxrwx),
