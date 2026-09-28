@@ -3,7 +3,7 @@
 # linpriv.sh — Question-driven Linux privilege escalation enumeration
 #
 # Structure: 1) Your Position  2) Understand the Machine  3) Privilege Boundaries
-# Each item is a plain-English question with the answer only (commands hidden).
+# Each item is a plain-English question with the answer.
 # RED  = potential vulnerability / worth exploiting
 # YELLOW = worth a manual look, not confirmed dangerous
 # Everything else = informational, plain output.
